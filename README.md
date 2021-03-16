@@ -12,3 +12,6 @@ The Economic Indicators analyzed include:
 4. Public Debt (Data Derived from https://www.centralbank.go.ke/statistics/national-accounts-statistics/)
 5. Domestic Debt by Instruments (Data Derived from https://www.centralbank.go.ke/statistics/national-accounts-statistics/)
 6. Interest Rates (Data Derived From https://www.centralbank.go.ke/statistics/national-accounts-statistics/)
+
+
+I have made economic explanation and  embeded these visualization in my Data Science Consultancy Firm website. You can view them here https://datapott.com/
